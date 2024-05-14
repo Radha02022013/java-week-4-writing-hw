@@ -26,7 +26,7 @@ public class Circle {
     }
 
     public double getArea() {
-        return (getRadius() * getRadius() * PI);
+        return (getRadius() * getRadius() * Math.PI);
     }
 
 
